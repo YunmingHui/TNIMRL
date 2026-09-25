@@ -34,8 +34,6 @@ To test if the package is installed successfully, back to the main folder and ru
 1. python test_influence_estimation.py
 2. If the estimated influence of the test seed set is printed, the package is installed successfully
 
-python train_DoubleDQN.py --dataset Bitcoinalpha --size_seed_set 10 --activation_length 30 --minimal_activated_nodes 30 --reward_scale 0.00001
-
 ### Step 2 Data preprocessing
 
 For new datasets, please use a .txt file to represent the temporal social network and put the text file in the `Data` folder. The .txt file should in the following format:
