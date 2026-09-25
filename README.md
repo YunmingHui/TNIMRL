@@ -60,11 +60,12 @@ python train_DoubleDQN.py --dataset Bitcoinalpha --size_seed_set 10 --activation
 Please cite the paper if you use this code in your work:
 
 ``````latex
-@article{HUI2026134390,
-title = {Non-Progressive Influence Maximization in Temporal Social Networks},
+@article{HUI2027134390,
+title = {Non-progressive influence maximization in temporal social networks},
 journal = {Expert Systems with Applications},
+volume = {334},
 pages = {134390},
-year = {2026},
+year = {2027},
 issn = {0957-4174},
 doi = {https://doi.org/10.1016/j.eswa.2026.134390},
 url = {https://www.sciencedirect.com/science/article/pii/S095741742603294X},
